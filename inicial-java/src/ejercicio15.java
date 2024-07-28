@@ -4,5 +4,6 @@ public class ejercicio15 {
         double cantidadDeDias = 7;
         double valorAPagarEnElHotel = precioPorNoche * cantidadDeDias;
         System.out.println("El total a pagar es de: " + valorAPagarEnElHotel);
+        System.out.println("Hola mundo " + valorAPagarEnElHotel);
     }
 }
